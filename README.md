@@ -1,4 +1,4 @@
-# Hello there! 👋
+#  👋 Hello there! 👋
 
 ### I'm HAMBALI, a computer geek who loves to code, so why not get paid for it?
 
@@ -58,7 +58,7 @@
 
 - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
 
-- 📫 How to reach me: **akristax@proton.me**
+- 📫 How to reach me: ** https://heylink.me/hambali.org**
 
 - 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
 
@@ -207,18 +207,6 @@ _**NOTE:** Top languages does not indicate my skill level or anything like that.
 </a>
 
 #Skill
-      
-• HTML5 & CSS3 
-
-• Photoshop 
-
-• Javascript & jQuery 
-
-• Wordpress 
-
-• PHP & MySQL
-
-• ReactJS and Redux (Learning in progress) 
 
 # Contact Me And SosialMedia 
 
