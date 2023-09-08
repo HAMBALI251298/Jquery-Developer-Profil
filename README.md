@@ -1,6 +1,4 @@
 #Skill
-
-https://github.com/HAMBALI251298/Jquery-Developer-Profil/blob/main/index.html
       
 • HTML5 & CSS3 
 
