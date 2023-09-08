@@ -1,4 +1,4 @@
-#  👋 Hello there! 👋
+# HI, Hello Everyone! 👋
 
 ### I'm HAMBALI, a computer geek who loves to code, so why not get paid for it?
 
@@ -6,7 +6,7 @@
 
 <div align="left">
 <img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
-  <a href="https://www.linkedin.com/in/akrista/">
+  <a href="https://www.linkedin.com/in/HAMBALI/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3"
       alt="LinkedIn"
@@ -54,13 +54,13 @@
 
 - 🌱 I’m currently learning about: **[Rust](https://github.com/rust-lang/rust), [Zig](https://github.com/ziglang/zig), [SvelteKit](https://kit.svelte.dev/)**
 
-- 👨‍💻 All of my projects are available at: **[https://github.com/Akrista](https://github.com/Akrista?tab=repositories)** _(It sure needs to be updated hehe...)_
+- 👨‍💻 All of my projects are available at: **[https://github.com/HAMBALI251298](https://github.com/HAMBALI251298?tab=repositories)** _(It sure needs to be updated hehe...)_
 
 - 💬 Ask me about: **Docker, Linux, SQL, Laravel**
 
-- 📫 How to reach me: ** https://heylink.me/hambali.org**
+- 📫 How to reach me: https://heylink.me/hambali.org
 
-- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/akrista/)**
+- 📄 Know about my experiences: **[Check my Resume!](https://drive.google.com/file/d/1bDduXngJVVVsnUU1-Z36JSxIotYRIbOf/view?usp=drive_link) or [My LinkedIn](https://linkedin.com/in/HAMBALI/)**
 
 </br>
 </br>
@@ -205,8 +205,6 @@ _**NOTE:** Top languages does not indicate my skill level or anything like that.
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Akrista&theme=gruvbox" alt="akrista" />
 </a>
-
-#Skill
 
 # Contact Me And SosialMedia 
 
