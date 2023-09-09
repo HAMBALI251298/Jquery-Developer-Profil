@@ -1,20 +1,20 @@
-# HI, Hello Everyone! 👋
+# Hello, Everyone! 👋
 
 ### I'm HAMBALI, a computer geek who loves to code, so why not get paid for it?
 
 </br>
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=akrista&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
+<img src="https://komarev.com/ghpvc/?username=HAMBALI&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
   <a href="https://www.linkedin.com/in/HAMBALI/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3"
       alt="LinkedIn"
     />
   </a>
-  <a href="https://twitter.com/akristax">
+  <a href="https://twitter.com/HAMBALI">
     <img
-      src="https://img.shields.io/badge/follow-%40akristax-1DA1F2?logo=twitter&style=flat&label=Twitter&color=0072b1&logoColor=ffffff"
+      src="https://img.shields.io/badge/follow-%40HAMBALI-1DA1F2?logo=twitter&style=flat&label=Twitter&color=0072b1&logoColor=ffffff"
       alt="Twitter"
     />
   </a>
@@ -24,12 +24,12 @@
       <a href="https://discordapp.com/users/Akrista#1410">
 <img alt="Discord" src="https://img.shields.io/discord/354241190947717120?style=flat&color=0072b1&logoColor=ffffff&logo=discord&label=Discord">
   </a>
-<!--   <a href="https://www.threads.net/@notakrista"> -->
-<!--     <img src="https://thread-count.vercel.app/thread-count/notakrista" alt="Akrista's Threads Account"> -->
+<!--   <a href="https://www.threads.net/@notHAMBALI"> -->
+<!--     <img src="https://thread-count.vercel.app/thread-count/notHAMBALI" alt="HAMBALI's Threads Account"> -->
 <!-- </a> -->
   </br>
   </br>
-  <a href="https://discordapp.com/users/Akrista#1410">
+  <a href="https://discordapp.com/users/HAMBALI#1410">
   <img align="right" src="https://lanyard.cnrad.dev/api/130525871277735937" alt="akrista" />
   </a>
 
@@ -44,7 +44,7 @@
       width="256"
       align="right"
       src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
-      alt="Akrista's Spotify"
+      alt="HAMBALI's Spotify"
     />
 </a>
 
