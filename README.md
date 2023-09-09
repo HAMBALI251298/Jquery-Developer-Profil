@@ -5,7 +5,7 @@
 </br>
 
 <div align="left">
-<img src="https://komarev.com/ghpvc/?username=HAMBALI&label=Profile%20views&color=0e75b6&style=flat" alt="akrista" />
+<img src="https://komarev.com/ghpvc/?username=HAMBALI&label=Profile%20views&color=0e75b6&style=flat" alt="HAMBALI" />
   <a href="https://www.linkedin.com/in/HAMBALI/">
     <img
       src="https://img.shields.io/static/v1?logo=linkedin&style=flat&color=0072b1&label=LinkedIn&message=%E2%9B%B3"
@@ -30,12 +30,12 @@
   </br>
   </br>
   <a href="https://discordapp.com/users/HAMBALI#1410">
-  <img align="right" src="https://lanyard.cnrad.dev/api/130525871277735937" alt="akrista" />
+  <img align="right" src="https://lanyard.cnrad.dev/api/130525871277735937" alt="HAMBALI" />
   </a>
 
   <p align="left">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=akrista&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="akrista" />
+  <img src="https://github-profile-trophy.vercel.app/?username=HAMBAL251298&theme=gruvbox&no-bg=true&row=2&column=3&no-frame=true" alt="HAMBALI251298" />
   </a>
   </p>
 
@@ -44,7 +44,7 @@
       width="256"
       align="right"
       src="https://spotify-github-profile.vercel.app/api/view?uid=21ca7hmfvx4lpeb37y7fs2vpq&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=false"
-      alt="HAMBALI's Spotify"
+      alt="HAMBALI251298's Spotify"
     />
 </a>
 
@@ -68,19 +68,19 @@
 </br>
 </br>
 
-  <a href="https://app.daily.dev/akrista" target="_blank">
+  <a href="https://app.daily.dev/HAMBALI251298" target="_blank">
     <img
       width="256"
       align="right"
       src="https://api.daily.dev/devcards/2287075d79584a318146e601cf17d7b9.png?r=4rw"
-      alt="Akrista's Dev Card"
+      alt="HAMBALI's Dev Card"
     />
   </a>
 
 ## 🔥 Streak stats
 
 <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=akrista&theme=gruvbox" alt="akrista" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=HAMBALI251298&theme=gruvbox" alt="HAMBALI251298" />
 </a>
 
 <p>🔥 Get streak stats for your profile at <a href="https://git.io/streak-stats">git.io/streak-stats</a></p>
@@ -93,11 +93,11 @@
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api?username=akrista&show_icons=true&locale=en&theme=gruvbox" alt="Akrista's Github Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=HAMBALI251298&show_icons=true&locale=en&theme=gruvbox" alt="HAMBALI251298's Github Stats" />
 </a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=akrista&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Most Used Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HAMBALI251298&show_icons=true&locale=en&theme=gruvbox&layout=compact" alt="Most Used Languages" />
 </a>
 
 </details>
@@ -110,7 +110,7 @@
 </br>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akrista&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="akrista" />
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=akrista&show_icons=true&locale=en&layout=compact&theme=gruvbox" alt="HAMBALI251298" />
 </a>
 
 </br>
@@ -203,7 +203,7 @@ _**NOTE:** Top languages does not indicate my skill level or anything like that.
 </br>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Akrista&theme=gruvbox" alt="akrista" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=HAMBALI251298&theme=gruvbox" alt="HAMBALI251298" />
 </a>
 
 # Contact Me And SosialMedia 
